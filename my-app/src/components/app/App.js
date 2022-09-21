@@ -2,6 +2,7 @@
 // import './src/App.css';
 import React from "react";
 import Nav from "../navbar/Navbar";
+import Home from "../home/Home";
 import {BrowserRouter as Router, Routes, Route} from 'react-router-dom'
 
 
@@ -28,6 +29,9 @@ function App() {
         <Nav />
        
       </div>
+      <Routes>
+      <Route exact path='/' element={<Home/>}/>
+      </Routes>
     </Router>
   );
 }
