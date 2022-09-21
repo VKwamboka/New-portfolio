@@ -12,9 +12,9 @@ export default function Home() {
                             Verah Kwamboka.
                         </h2>
                         <p class="description">
-                            I am currently a Software Engineering student at Moringa School. 
-                            I am passionate about Web Development and Design,  Data Science and Machine learning.
-                            I am also a problem solver and student of life. I am working on changing the world using Tech!
+                            I am a full stack Developer. 
+                            I am passionate about Web Development and Design and Cyber Security.
+                            I am a problem solver and student of life. I am working on changing the world using Tech!
                         </p><div class="GlobalComponents__ButtonBack-sc-6qzy6y-6 jlrszi">
                             Resume
                             <button class="GlobalComponents__ButtonFront-sc-6qzy6y-7 evTffm">
